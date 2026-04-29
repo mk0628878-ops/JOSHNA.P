@@ -13,7 +13,7 @@
 
 Dhanalakshmi College of Nursing is a self financing College which started in the year 2010. This institution which is recognized by the Indian Nursing Council and Kerala Nursing Council is affiliated to the Kerala University of Health Sciences. It has the agreement with the Government of Kerala for 50% seat sharing. The parent hospital, Dhanalakshmi Hospital is the leading superspeciality hospital in the region which has over 350 beds .The college with all its modern amenities has well furnished and spacious class rooms, well equipped laboratories, computer labs, Audio-visual lab, medical library with a good stock of medical books and journals and teaching facilities which use state of the art technologies. A group of highly qualified and experienced teachers form the teaching faculty. The institution is managed by professional administrators.The construction of the large multi-storied modern building which will house the College is in progress and will be complete by December 2011. This building with its large campus is situated within the Kannur city area and just a stone throw away from the parent Hospital and hostels
 
-EMPLOYEES SATISFACTION
+EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 <img width="800" height="685" alt="image" src="https://github.com/user-attachments/assets/7f4a362b-317a-4eb3-bfac-eba136b5e004" />
 
@@ -31,7 +31,7 @@ EMPLOYEES SATISFACTION
 
 Employee satisfaction is the measure of how content, motivated, and fulfilled employees feel in their roles, influenced by factors like compensation, work environment, and leadership. It is crucial for high retention and productivity. A positive, supportive workplace culture, clear communication, and opportunities for career growth are essential to creating a satisfying environment.
 
-NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY
+NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY IN DHANALAKSHMI HOSPITAL
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a9d974c9-f18c-4e0d-a37f-09c072f543ed" />
 
@@ -51,7 +51,7 @@ NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY
 
 
 
-KEY COMPONENT'S DRIVE'S OF EMPLOYEES SATISFACTION
+KEY COMPONENT'S DRIVE'S OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 <img width="768" height="549" alt="image" src="https://github.com/user-attachments/assets/6cde1590-8f78-4ca2-8020-19513bbc2564" />
 
@@ -71,7 +71,7 @@ Leadership and Management: Consistent, transparent leadership that recognizes co
 Career Growth: Employees feel more satisfied when they have opportunities to develop skills and advance in their roles.
 Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
 
-IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION
+IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 <img width="1350" height="759" alt="image" src="https://github.com/user-attachments/assets/e262da0a-013f-4806-b5aa-3a3e24831153" />
 
@@ -90,7 +90,7 @@ The Impact of Management: Employees often leave managers, not companies. Support
 Connection to Purpose: Employees are more satisfied when they understand how their daily work contributes to the broader company mission.
 Social Connections: Work friendships can increase job satisfaction by up to 50.
 
-SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION
+SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 <img width="3040" height="892" alt="image" src="https://github.com/user-attachments/assets/5704c6f1-002c-4cd9-829b-7acf80d67ba4" />
 
