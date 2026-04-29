@@ -11,21 +11,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dhanalakshmi College of Nursing is a self financing College which started in the year 2010. This institution which is recognized by the Indian Nursing Council and Kerala Nursing Council is affiliated to the Kerala University of Health Sciences. It has the agreement with the Government of Kerala for 50% seat sharing. The parent hospital, Dhanalakshmi Hospital is the leading superspeciality hospital in the region which has over 350 beds .The college with all its modern amenities has well furnished and spacious class rooms, well equipped laboratories, computer labs, Audio-visual lab, medical library with a good stock of medical books and journals and teaching facilities which use state of the art technologies. A group of highly qualified and experienced teachers form the teaching faculty. The institution is managed by professional administrators.The construction of the large multi-storied modern building which will house the College is in progress and will be complete by December 2011. This building with its large campus is situated within the Kannur city area and just a stone throw away from the parent Hospital and hostels
 
 EMPLOYEES SATISFACTION
 
