@@ -14,7 +14,28 @@
 EMPLOYEES SATISFACTION
 Employee satisfaction is the measure of how content, motivated, and fulfilled employees feel in their roles, influenced by factors like compensation, work environment, and leadership. It is crucial for high retention and productivity. A positive, supportive workplace culture, clear communication, and opportunities for career growth are essential to creating a satisfying environment.
 
+NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a9d974c9-f18c-4e0d-a37f-09c072f543ed" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Key Components and Drivers of Employee Satisfaction
+
 <img width="768" height="549" alt="image" src="https://github.com/user-attachments/assets/6cde1590-8f78-4ca2-8020-19513bbc2564" />
 
 
@@ -34,6 +55,7 @@ Career Growth: Employees feel more satisfied when they have opportunities to dev
 Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
 
 Key Findings on Employee Satisfaction
+
 <img width="1350" height="759" alt="image" src="https://github.com/user-attachments/assets/e262da0a-013f-4806-b5aa-3a3e24831153" />
 
 
@@ -52,6 +74,7 @@ Connection to Purpose: Employees are more satisfied when they understand how the
 Social Connections: Work friendships can increase job satisfaction by up to 50%.
 
 Suggestions to Improve Employee Satisfaction
+
 <img width="3040" height="892" alt="image" src="https://github.com/user-attachments/assets/5704c6f1-002c-4cd9-829b-7acf80d67ba4" />
 
 
@@ -69,4 +92,8 @@ Invest in Career Development: Offer clear paths for growth, such as mentoring, t
 Equip Managers to Lead: Train managers to focus on coaching and support rather than micromanagement.
 Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take the temperature of the organization and act on feedback quickly.
 Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
+
+
+
+
 
