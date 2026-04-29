@@ -18,14 +18,18 @@ MESSAGE'S MD ABOUT DHANALAKSHMI HOSPITAL
 
 <img width="400" height="296" alt="image" src="https://github.com/user-attachments/assets/72f1c77e-c33a-438e-8c70-dd7c093ee614" />
 
-                      Management oF Dhanalakshmi hospitals pvt ltd.
+                  
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                                  Management oF Dhanalakshmi hospitals pvt ltd.
 
-
-
-
-
-
-     
 
 n behalf of the board of directors, doctors, and staff of Dhanalakshmi Hospital, I have great pleasure to welcome you to our website.
 
@@ -41,6 +45,8 @@ The hospital with its modern building and excellent infrastructure is situated i
 
 I wish all our patients visiting us 'Good Health'!
 
+VISION AND MISSION DHANALAKSHMI HOSPITAL
+<img width="181" height="142" alt="image" src="https://github.com/user-attachments/assets/c3094d39-bbfe-4a50-952d-507b80b3efaa" />
 
 
 
@@ -48,31 +54,13 @@ I wish all our patients visiting us 'Good Health'!
 
 
 
+1.Our vision is to become Kerala's leading health care provider. The important aspect of health care with a human touch is reflected in our motto "Care & Cure with Dedication".
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Our mission :-
+1.Provide cost- effective quality medical treatment to all classes of patients through highly trained and qualified doctors with the help of a team of dedicated nursing and paramedical staff using world class facilities and state- of- the- art equipments.
+2.Keep patients well informed about their medical condition and respect patient's rights.
+3.Uphold and ensure ethical practice and work as a team while providing health care.
+4.Respect other systems of medicine and maintain close relationship with all medical colleagues.
 
 EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
