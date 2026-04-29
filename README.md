@@ -54,7 +54,7 @@ Leadership and Management: Consistent, transparent leadership that recognizes co
 Career Growth: Employees feel more satisfied when they have opportunities to develop skills and advance in their roles.
 Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
 
-Key Findings on Employee Satisfaction
+IDENTIFICATION OF Employee Satisfaction
 
 <img width="1350" height="759" alt="image" src="https://github.com/user-attachments/assets/e262da0a-013f-4806-b5aa-3a3e24831153" />
 
