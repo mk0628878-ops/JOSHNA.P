@@ -1,7 +1,7 @@
 
                     A STUDY ON EMPLOYEES SATISFACTION WITH SPECIAL REFERENCE TO DHANALAKSHMI HOSPITAL KANNUR"KANNUR- KERALA
 
-<img width="252" height="200" alt="image" src="https://github.com/user-attachments/assets/cdea3879-f54c-4548-b4e7-f335a45cc226" />
+<img width="339" height="149" alt="image" src="https://github.com/user-attachments/assets/321cb605-c2d9-4bdb-81c9-9ef5a17e695d" />
 
 
 
