@@ -236,7 +236,7 @@ Colleague Cooperation: Good, supportive relationships with coworkers.
 Work-Life Balance: The ability to balance personal and professional life.
 Autonomy: The opportunity to use one’s skills and have input into decisions. 
 
-EMPLOYEES SATISFACTION & DEVELOPMENT PROGRAMMES IN DHANALAKSHMI HOSPITAL
+EMPLOYEES SATISFACTION & DEVELOPMENT PROGRAMMES CONTAIN IN DHANALAKSHMI HOSPITAL
 
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8163debf-f027-4d91-ae91-cd4be8cabcd7" />
 
