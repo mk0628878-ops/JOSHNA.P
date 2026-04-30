@@ -135,7 +135,8 @@ IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 Drivers Beyond Pay: While competitive compensation is foundational, it is no longer the sole driver of satisfaction. Key drivers include recognition, work-life balance, career development, and workplace relationships.
 Importance of Recognition: Employees who do not feel adequately recognized are twice as likely to quit within a year.
 Work-Life Balance is Top Priority: Following the pandemic, 83% of workers surveyed ranked work-life balance as a top priority, often ranking ahead of salary.
-The Impact of Management: Employees often leave managers, not companies. Supportive management and the absence of micromanagement are crucial for satisfaction.
+The Impact of Management: Employees often leave managers, not companies. Supportive management and the absence of micromanagement are crucial for 
+satisfaction.
 Connection to Purpose: Employees are more satisfied when they understand how their daily work contributes to the broader company mission.
 Social Connections: Work friendships can increase job satisfaction by up to 50.
 
@@ -158,6 +159,29 @@ Invest in Career Development: Offer clear paths for growth, such as mentoring, t
 Equip Managers to Lead: Train managers to focus on coaching and support rather than micromanagement.
 Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take the temperature of the organization and act on feedback quickly.
 Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
+
+BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improved Patient Care: High employee satisfaction and morale directly correlate to better patient interaction and care, according to feedback.
+High Retention & Security: Employees report high levels of job security (4.7/5) and a positive work environment, which reduces turnover.
+Flexible Work Environment: 25% of employees report positive flexible timing, which aids in work-life balance.
+Positive Organizational Culture: The hospital is rated 4.0/5 for company culture, with 4.9/5 for culture reported by female employees, leading to a more collaborative, less stressful environment.Good Management
+Support: Management receives a high rating of 4.3/5, contributing to a supportive atmosphere.
 
 
 
