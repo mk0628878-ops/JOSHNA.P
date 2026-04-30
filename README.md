@@ -249,7 +249,11 @@ EMPLOYEES SATISFACTION & DEVELOPMENT PROGRAMMES IN DHANALAKSHMI HOSPITAL
 
 
 1.In-service Education: Nurse Educators conduct regular training sessions for all nursing staff, supported by doctors, to provide the latest medical knowledge.
+
 2.Induction Training: A two-day Induction Programme is provided for new staff nurses, including pre- and post-induction tests to evaluate learning.
+
 3.Nursing Aide Training: Regular programs for support staff covering personal grooming, discipline, and patient care.
+
 4.Professional Growth: Opportunities for clinical training in specialized units, including ICU, ICCU, Dialysis, and Oncology.
+
 5.Environment: Staff highlight a supportive management and a positive atmosphere for working.
