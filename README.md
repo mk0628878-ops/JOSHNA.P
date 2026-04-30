@@ -221,21 +221,41 @@ FACTOR'S LEADING TO WORK RELATION EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITA
 1.Compensation and Benefits
 Salary and Incentives: A fair salary and incentives (such as overtime pay, bonuses) are major drivers.
 Job Security: A stable, secure job is a key factor, particularly in private healthcare settings.
-
 2. Work Environment and Conditions
 Workload Management: Reasonable work hours and manageable patient-to-staff ratios are crucial. High workloads frequently cause dissatisfaction.
 Physical Environment: Clean, safe, and well-equipped surroundings.
 Working Conditions: The availability of necessary materials and equipment to perform duties efficiently.
-
 3.Organizational Factors
 Leadership and Management Support: Supportive leadership that provides feedback and recognition is essential.
 Career Advancement: Opportunities for professional development, training, and promotion.
 Organizational Culture: A collaborative, respectful culture that promotes teamwork and support from peers.
-
 4. Interpersonal Relationships
 Supervisor Support: A positive relationship with immediate supervisors.
 Colleague Cooperation: Good, supportive relationships with coworkers.
-
 5. Individual Factors
 Work-Life Balance: The ability to balance personal and professional life.
 Autonomy: The opportunity to use one’s skills and have input into decisions. 
+
+EMPLOYEES SATISFACTION & DEVELOPMENT PROGRAMMES IN DHANALAKSHMI HOSPITAL
+
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8163debf-f027-4d91-ae91-cd4be8cabcd7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.In-service Education: Nurse Educators conduct regular training sessions for all nursing staff, supported by doctors, to provide the latest medical knowledge.
+2.Induction Training: A two-day Induction Programme is provided for new staff nurses, including pre- and post-induction tests to evaluate learning.
+3.Nursing Aide Training: Regular programs for support staff covering personal grooming, discipline, and patient care.
+4.Professional Growth: Opportunities for clinical training in specialized units, including ICU, ICCU, Dialysis, and Oncology.
+5.Environment: Staff highlight a supportive management and a positive atmosphere for working.
