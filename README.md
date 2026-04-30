@@ -184,7 +184,7 @@ BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL
 4.Positive Organizational Culture: The hospital is rated 4.0/5 for company culture, with 4.9/5 for culture reported by female employees, leading to a more collaborative, less stressful environment.Good Management
 5.Support: Management receives a high rating of 4.3/5, contributing to a supportive atmosphere.
 
-EMPLOYEES SATISFIED IN DHANALAKSHMI HOSPITAL BY USING LINE CHART
+EMPLOYEES SATISFIED IN DHANALAKSHMI HOSPITAL BY USING BAR CHART
 
 <img width="1200" height="874" alt="image" src="https://github.com/user-attachments/assets/42221ab6-7928-4b29-b9f2-4a73c1fd3744" />
 
