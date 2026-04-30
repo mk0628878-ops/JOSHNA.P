@@ -162,6 +162,7 @@ Improve Workplace Environment: Ensure physical and digital tools are user-friend
 
 BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL 
 
+<img width="257" height="196" alt="image" src="https://github.com/user-attachments/assets/0342d073-d691-4296-bb7f-98a905b7189c" />
 
 
 
@@ -177,13 +178,64 @@ BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL
 
 
 
-Improved Patient Care: High employee satisfaction and morale directly correlate to better patient interaction and care, according to feedback.
-High Retention & Security: Employees report high levels of job security (4.7/5) and a positive work environment, which reduces turnover.
-Flexible Work Environment: 25% of employees report positive flexible timing, which aids in work-life balance.
-Positive Organizational Culture: The hospital is rated 4.0/5 for company culture, with 4.9/5 for culture reported by female employees, leading to a more collaborative, less stressful environment.Good Management
-Support: Management receives a high rating of 4.3/5, contributing to a supportive atmosphere.
+1.Improved Patient Care: High employee satisfaction and morale directly correlate to better patient interaction and care, according to feedback.
+2.High Retention & Security: Employees report high levels of job security (4.7/5) and a positive work environment, which reduces turnover.
+3.Flexible Work Environment: 25% of employees report positive flexible timing, which aids in work-life balance.
+4.Positive Organizational Culture: The hospital is rated 4.0/5 for company culture, with 4.9/5 for culture reported by female employees, leading to a more collaborative, less stressful environment.Good Management
+5.Support: Management receives a high rating of 4.3/5, contributing to a supportive atmosphere.
+
+EMPLOYEES SATISFIED IN DHANALAKSHMI HOSPITAL BY USING LINE CHART
+
+<img width="1200" height="874" alt="image" src="https://github.com/user-attachments/assets/42221ab6-7928-4b29-b9f2-4a73c1fd3744" />
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+FACTOR'S LEADING TO WORK RELATION EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
+
+<img width="253" height="199" alt="image" src="https://github.com/user-attachments/assets/896ac8c2-2c21-41e7-a0f7-a64643522c46" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.Compensation and Benefits
+Salary and Incentives: A fair salary and incentives (such as overtime pay, bonuses) are major drivers.
+Job Security: A stable, secure job is a key factor, particularly in private healthcare settings.
+
+2. Work Environment and Conditions
+Workload Management: Reasonable work hours and manageable patient-to-staff ratios are crucial. High workloads frequently cause dissatisfaction.
+Physical Environment: Clean, safe, and well-equipped surroundings.
+Working Conditions: The availability of necessary materials and equipment to perform duties efficiently.
+
+3.Organizational Factors
+Leadership and Management Support: Supportive leadership that provides feedback and recognition is essential.
+Career Advancement: Opportunities for professional development, training, and promotion.
+Organizational Culture: A collaborative, respectful culture that promotes teamwork and support from peers.
+
+4. Interpersonal Relationships
+Supervisor Support: A positive relationship with immediate supervisors.
+Colleague Cooperation: Good, supportive relationships with coworkers.
+
+5. Individual Factors
+Work-Life Balance: The ability to balance personal and professional life.
+Autonomy: The opportunity to use one’s skills and have input into decisions. 
