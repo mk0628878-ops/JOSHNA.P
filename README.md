@@ -29,8 +29,11 @@ VISION AND MISSION OF DHANALAKSHMI HOSPITAL
 
 Our mission :-
 1.Provide cost- effective quality medical treatment to all classes of patients through highly trained and qualified doctors with the help of a team of dedicated nursing and paramedical staff using world class facilities and state- of- the- art equipments.
+
 2.Keep patients well informed about their medical condition and respect patient's rights.
+
 3.Uphold and ensure ethical practice and work as a team while providing health care.
+
 4.Respect other systems of medicine and maintain close relationship with all medical colleagues.
 
 ABSTRACT OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
@@ -106,9 +109,13 @@ KEY COMPONENT'S DRIVE'S OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 1.Intrinsic & Extrinsic Factors: Satisfaction stems from both internal fulfillment (meaningful work, autonomy) and external rewards (salary, benefits, job security).
+
 2.Work Environment & Culture: A, supportive, and safe working environment is fundamental to employee happiness.
+
 3.Leadership and Management: Consistent, transparent leadership that recognizes contributions helps employees feel valued.
+
 4.Career Growth: Employees feel more satisfied when they have opportunities to develop skills and advance in their roles.
+
 5.Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
 
 
@@ -126,11 +133,16 @@ IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 1.Drivers Beyond Pay: While competitive compensation is foundational, it is no longer the sole driver of satisfaction. Key drivers include recognition, work-life balance, career development, and workplace relationships.
+
 2.Importance of Recognition: Employees who do not feel adequately recognized are twice as likely to quit within a year.
+
 3.Work-Life Balance is Top Priority: Following the pandemic, 83% of workers surveyed ranked work-life balance as a top priority, often ranking ahead of salary.
+
 4.The Impact of Management: Employees often leave managers, not companies. Supportive management and the absence of micromanagement are crucial for 
 satisfaction.
+
 5.Connection to Purpose: Employees are more satisfied when they understand how their daily work contributes to the broader company mission.
+
 6.Social Connections: Work friendships can increase job satisfaction by up to 50.
 
 
@@ -148,11 +160,17 @@ SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 1.Implement Regular Recognition Programs: Move beyond annual reviews to provide frequent, specific, and public recognition for achievements.
+
 2.Foster a Culture of Transparency: Keep employees in the loop regarding company decisions and strategies to build trust.
+
 3.Offer Flexible Work Arrangements: Provide options like hybrid work, remote work, or flexible hours to help employees manage their personal lives.
+
 4.Invest in Career Development: Offer clear paths for growth, such as mentoring, training programs, and skill-building workshops.
+
 5.Equip Managers to Lead: Train managers to focus on coaching and support rather than micromanagement.
+
 6.Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take the temperature of the organization and act on feedback quickly.
+
 7.Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
 
 
@@ -176,9 +194,13 @@ BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL
 
 
 1.Improved Patient Care: High employee satisfaction and morale directly correlate to better patient interaction and care, according to feedback.
+
 2.High Retention & Security: Employees report high levels of job security (4.7/5) and a positive work environment, which reduces turnover.
+
 3.Flexible Work Environment: 25% of employees report positive flexible timing, which aids in work-life balance.
+
 4.Positive Organizational Culture: The hospital is rated 4.0/5 for company culture, with 4.9/5 for culture reported by female employees, leading to a more collaborative, less stressful environment.Good Management
+
 5.Support: Management receives a high rating of 4.3/5, contributing to a supportive atmosphere.
 
 
@@ -220,19 +242,24 @@ FACTOR'S LEADING TO WORK RELATION EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITA
 
 
 1.Compensation and Benefits
+
 Salary and Incentives: A fair salary and incentives (such as overtime pay, bonuses) are major drivers.
 Job Security: A stable, secure job is a key factor, particularly in private healthcare settings.
+
 2. Work Environment and Conditions
 Workload Management: Reasonable work hours and manageable patient-to-staff ratios are crucial. High workloads frequently cause dissatisfaction.
 Physical Environment: Clean, safe, and well-equipped surroundings.
 Working Conditions: The availability of necessary materials and equipment to perform duties efficiently.
+
 3.Organizational Factors
 Leadership and Management Support: Supportive leadership that provides feedback and recognition is essential.
 Career Advancement: Opportunities for professional development, training, and promotion.
 Organizational Culture: A collaborative, respectful culture that promotes teamwork and support from peers.
+
 4. Interpersonal Relationships
 Supervisor Support: A positive relationship with immediate supervisors.
 Colleague Cooperation: Good, supportive relationships with coworkers.
+
 5. Individual Factors
 Work-Life Balance: The ability to balance personal and professional life.
 Autonomy: The opportunity to use one’s skills and have input into decisions. 
