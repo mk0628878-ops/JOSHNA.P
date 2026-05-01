@@ -89,6 +89,7 @@ NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY IN DHANALAKSHMI HOSPITAL
 
 
 
+
 KEY COMPONENT'S DRIVE'S OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
@@ -109,6 +110,7 @@ Work Environment & Culture: A, supportive, and safe working environment is funda
 Leadership and Management: Consistent, transparent leadership that recognizes contributions helps employees feel valued.
 Career Growth: Employees feel more satisfied when they have opportunities to develop skills and advance in their roles.
 Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
+
 
 IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
@@ -131,6 +133,7 @@ satisfaction.
 Connection to Purpose: Employees are more satisfied when they understand how their daily work contributes to the broader company mission.
 Social Connections: Work friendships can increase job satisfaction by up to 50.
 
+
 SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
@@ -151,6 +154,7 @@ Invest in Career Development: Offer clear paths for growth, such as mentoring, t
 Equip Managers to Lead: Train managers to focus on coaching and support rather than micromanagement.
 Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take the temperature of the organization and act on feedback quickly.
 Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
+
 
 BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL 
 
@@ -177,10 +181,12 @@ BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL
 4.Positive Organizational Culture: The hospital is rated 4.0/5 for company culture, with 4.9/5 for culture reported by female employees, leading to a more collaborative, less stressful environment.Good Management
 5.Support: Management receives a high rating of 4.3/5, contributing to a supportive atmosphere.
 
+
 EMPLOYEES SATISFIED IN DHANALAKSHMI HOSPITAL BY USING BAR CHART
 
 
 <img width="1200" height="874" alt="image" src="https://github.com/user-attachments/assets/42221ab6-7928-4b29-b9f2-4a73c1fd3744" />
+
 
 
 
@@ -230,6 +236,7 @@ Colleague Cooperation: Good, supportive relationships with coworkers.
 5. Individual Factors
 Work-Life Balance: The ability to balance personal and professional life.
 Autonomy: The opportunity to use one’s skills and have input into decisions. 
+
 
 EMPLOYEES SATISFACTION & DEVELOPMENT PROGRAMMES CONTAIN IN DHANALAKSHMI HOSPITAL
 
