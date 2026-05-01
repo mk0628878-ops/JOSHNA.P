@@ -91,6 +91,7 @@ NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY IN DHANALAKSHMI HOSPITAL
 
 KEY COMPONENT'S DRIVE'S OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
+
 <img width="768" height="549" alt="image" src="https://github.com/user-attachments/assets/6cde1590-8f78-4ca2-8020-19513bbc2564" />
 
 
@@ -110,6 +111,7 @@ Career Growth: Employees feel more satisfied when they have opportunities to dev
 Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
 
 IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
+
 
 <img width="1350" height="759" alt="image" src="https://github.com/user-attachments/assets/e262da0a-013f-4806-b5aa-3a3e24831153" />
 
@@ -131,6 +133,7 @@ Social Connections: Work friendships can increase job satisfaction by up to 50.
 
 SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
+
 <img width="3040" height="892" alt="image" src="https://github.com/user-attachments/assets/5704c6f1-002c-4cd9-829b-7acf80d67ba4" />
 
 
@@ -150,6 +153,7 @@ Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take 
 Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
 
 BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL 
+
 
 <img width="257" height="196" alt="image" src="https://github.com/user-attachments/assets/0342d073-d691-4296-bb7f-98a905b7189c" />
 
@@ -175,6 +179,7 @@ BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL
 
 EMPLOYEES SATISFIED IN DHANALAKSHMI HOSPITAL BY USING BAR CHART
 
+
 <img width="1200" height="874" alt="image" src="https://github.com/user-attachments/assets/42221ab6-7928-4b29-b9f2-4a73c1fd3744" />
 
 
@@ -192,6 +197,7 @@ EMPLOYEES SATISFIED IN DHANALAKSHMI HOSPITAL BY USING BAR CHART
 
 
 FACTOR'S LEADING TO WORK RELATION EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
+
 
 <img width="253" height="199" alt="image" src="https://github.com/user-attachments/assets/896ac8c2-2c21-41e7-a0f7-a64643522c46" />
 
@@ -226,6 +232,7 @@ Work-Life Balance: The ability to balance personal and professional life.
 Autonomy: The opportunity to use one’s skills and have input into decisions. 
 
 EMPLOYEES SATISFACTION & DEVELOPMENT PROGRAMMES CONTAIN IN DHANALAKSHMI HOSPITAL
+
 
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8163debf-f027-4d91-ae91-cd4be8cabcd7" />
 
