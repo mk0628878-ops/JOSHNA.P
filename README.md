@@ -14,7 +14,7 @@
 Dhanalakshmi College of Nursing is a self financing College which started in the year 2010. This institution which is recognized by the Indian Nursing Council and Kerala Nursing Council is affiliated to the Kerala University of Health Sciences. It has the agreement with the Government of Kerala for 50% seat sharing. The parent hospital, Dhanalakshmi Hospital is the leading superspeciality hospital in the region which has over 350 beds .The college with all its modern amenities has well furnished and spacious class rooms, well equipped laboratories, computer labs, Audio-visual lab, medical library with a good stock of medical books and journals and teaching facilities which use state of the art technologies. A group of highly qualified and experienced teachers form the teaching faculty. The institution is managed by professional administrators.The construction of the large multi-storied modern building which will house the College is in progress and will be complete by December 2011. This building with its large campus is situated within the Kannur city area and just a stone throw away from the parent Hospital and hostels
 
 
-VISION AND MISSION DHANALAKSHMI HOSPITAL
+VISION AND MISSION OF DHANALAKSHMI HOSPITAL
 <img width="181" height="142" alt="image" src="https://github.com/user-attachments/assets/c3094d39-bbfe-4a50-952d-507b80b3efaa" />
 
 
@@ -105,11 +105,11 @@ KEY COMPONENT'S DRIVE'S OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 
-Intrinsic & Extrinsic Factors: Satisfaction stems from both internal fulfillment (meaningful work, autonomy) and external rewards (salary, benefits, job security).
-Work Environment & Culture: A, supportive, and safe working environment is fundamental to employee happiness.
-Leadership and Management: Consistent, transparent leadership that recognizes contributions helps employees feel valued.
-Career Growth: Employees feel more satisfied when they have opportunities to develop skills and advance in their roles.
-Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
+1.Intrinsic & Extrinsic Factors: Satisfaction stems from both internal fulfillment (meaningful work, autonomy) and external rewards (salary, benefits, job security).
+2.Work Environment & Culture: A, supportive, and safe working environment is fundamental to employee happiness.
+3.Leadership and Management: Consistent, transparent leadership that recognizes contributions helps employees feel valued.
+4.Career Growth: Employees feel more satisfied when they have opportunities to develop skills and advance in their roles.
+5.Relationships: Positive relationships and teamwork with colleagues improve job satisfaction. 
 
 
 IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
@@ -125,13 +125,13 @@ IDENTIFICATION KEY DRIVES OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 
-Drivers Beyond Pay: While competitive compensation is foundational, it is no longer the sole driver of satisfaction. Key drivers include recognition, work-life balance, career development, and workplace relationships.
-Importance of Recognition: Employees who do not feel adequately recognized are twice as likely to quit within a year.
-Work-Life Balance is Top Priority: Following the pandemic, 83% of workers surveyed ranked work-life balance as a top priority, often ranking ahead of salary.
-The Impact of Management: Employees often leave managers, not companies. Supportive management and the absence of micromanagement are crucial for 
+1.Drivers Beyond Pay: While competitive compensation is foundational, it is no longer the sole driver of satisfaction. Key drivers include recognition, work-life balance, career development, and workplace relationships.
+2.Importance of Recognition: Employees who do not feel adequately recognized are twice as likely to quit within a year.
+3.Work-Life Balance is Top Priority: Following the pandemic, 83% of workers surveyed ranked work-life balance as a top priority, often ranking ahead of salary.
+4.The Impact of Management: Employees often leave managers, not companies. Supportive management and the absence of micromanagement are crucial for 
 satisfaction.
-Connection to Purpose: Employees are more satisfied when they understand how their daily work contributes to the broader company mission.
-Social Connections: Work friendships can increase job satisfaction by up to 50.
+5.Connection to Purpose: Employees are more satisfied when they understand how their daily work contributes to the broader company mission.
+6.Social Connections: Work friendships can increase job satisfaction by up to 50.
 
 
 SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
@@ -147,13 +147,13 @@ SUGGESHION'S TO IMPROVE EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 
-Implement Regular Recognition Programs: Move beyond annual reviews to provide frequent, specific, and public recognition for achievements.
-Foster a Culture of Transparency: Keep employees in the loop regarding company decisions and strategies to build trust.
-Offer Flexible Work Arrangements: Provide options like hybrid work, remote work, or flexible hours to help employees manage their personal lives.
-Invest in Career Development: Offer clear paths for growth, such as mentoring, training programs, and skill-building workshops.
-Equip Managers to Lead: Train managers to focus on coaching and support rather than micromanagement.
-Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take the temperature of the organization and act on feedback quickly.
-Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
+1.Implement Regular Recognition Programs: Move beyond annual reviews to provide frequent, specific, and public recognition for achievements.
+2.Foster a Culture of Transparency: Keep employees in the loop regarding company decisions and strategies to build trust.
+3.Offer Flexible Work Arrangements: Provide options like hybrid work, remote work, or flexible hours to help employees manage their personal lives.
+4.Invest in Career Development: Offer clear paths for growth, such as mentoring, training programs, and skill-building workshops.
+5.Equip Managers to Lead: Train managers to focus on coaching and support rather than micromanagement.
+6.Regularly Measure with Surveys: Use anonymous, frequent "pulse" surveys to take the temperature of the organization and act on feedback quickly.
+7.Improve Workplace Environment: Ensure physical and digital tools are user-friendly, and the workspace is comfortable.
 
 
 BENIFITS OF EMPLOYEES SATISFACTION IN DHANALKSHMI HOSPITAL 
