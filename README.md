@@ -49,9 +49,27 @@ ABSTRACT OF EMPLOYEES SATISFACTION IN DHANALAKSHMI HOSPITAL
 
 
 
-Employee satisfaction is the measure of how content, motivated, and fulfilled employees feel in their roles, influenced by factors like compensation, work environment, and leadership. It is crucial for high retention and productivity. A positive, supportive workplace culture, clear communication, and opportunities for career growth are essential to creating a satisfying environment.
+
+
+
+
+
+Employees' satisfaction is the individual employee general attitude towards the job. It is also an employee cognitive and affective evaluation of his or her job.According to New Cranny, Smith and Stone (1992), Employee satisfaction is defined as the combination of affective reactions to the differential perceptions of
+what he/she wants to receive compared with what he/she actually receives. According to Moyes, Shao & Newsome (2008), the employee satisfaction
+may be described as how pleased an employee is with his or her position of employment.According to Spector (1997) defined employee satisfaction, as all the
+feelings that a given individual has about his/her job and its various aspects.Employee satisfaction is a comprehensive term that comprises job
+satisfaction of employees and their satisfaction overall with company‟s policies,company environment etc. Keeping morale high among workers can be oftremendous benefit to any company, as happy workers will be more likely to produce more, take fewer days off and stay loyal to the company. Therefore, the
+organization should try to supply the employee expectations in order to approach the employee satisfaction. In addition, emotional state of the employees may also affect their satisfaction. This forces the managers to create and sustain the desired working environment in the organizations. On the other hand, as stated by Organ & Ryan (1995), the employee satisfaction is one of the bases of organizational citizenship behavior that is, the well-satisfied employees will work more willingly and this contributes to the effectiveness of the organizations.There are various factors that contribute to employee satisfaction, it includes
+treating employees with respect, time to time performance appraisals, providing regular employee recognition, empowering employees, relationship with immediate
+supervisor, providing employee perks, company activities, positive management within a success framework of goals, feeling safe in the work environment,
+opportunities to use skills and abilities, compensation and benefit, promotions,training, work tasks factors, relationship with co-workers, relationship with
+supervisors. Some more factors include as follows: interesting work, appreciation of work, job security, job-specific training, good wages, promotion/growth, good working conditions, personal loyalty, tactful discipline, sympathetic help with problems, preferred incentives, flexi-timing, telecommuting, company paid
+vacations, accident and health insurance benefits, retired benefits, asset building loans, company transport and many more.Having good relationships with the colleagues, high salary, good working conditions, training and education opportunities, career development or any other benefits may be related with the increasing of employee satisfaction.The backbone of employee satisfaction is respect for workers and the job they perform (Branham, 2005). In every interaction with management, employees should be treated with courtesy and interest. An easy avenue for employees to discuss problems with upper management should be maintained and carefully monitored. Even if management cannot meet all the demands of employees,showing workers that they are being heard and putting honest dedication into compromising will often help to improve morale.Kendall and Hulin (1969) define five different components of employee
+satisfaction that are opportunities of promotion, pay, relationship with supervisor,work itself and co-workers. 
+
 
 NEED'S OF EMPLOYEES SATISFACTION HIGHRACHY IN DHANALAKSHMI HOSPITAL
+
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/a9d974c9-f18c-4e0d-a37f-09c072f543ed" />
 
